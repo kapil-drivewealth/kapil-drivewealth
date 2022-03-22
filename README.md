@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning Neo4j, AWS, Docker, Kubernetes and MongoDB
 - 💞️ I’m looking to collaborate on implementing new things like AI, ML or Blcokchain
-- 📫 How to reach me karora-ext@drivewealth.com
+- 📫 How to reach me karora-ext@drivewealth.tech
 
 <!---
 kapil-drivewealth/kapil-drivewealth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
